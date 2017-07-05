@@ -1,0 +1,38 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // "editor.formatOnSave": true,
+    // "highlight-matching-tag.enabled": true,
+    // "highlight-matching-tag.highlightSelfClosing": true,
+    // "highlight-matching-tag.leftStyle": {
+    //     "borderWidth": "5px 5px 5px 5px",
+    //     "borderStyle": "solid",
+    //     "borderColor": "white",
+    //     "borderRadius": "1px"
+    // },
+    // "highlight-matching-tag.rightStyle": {
+    //     "borderWidth": "5px 5px 5px 5px",
+    //     "borderStyle": "solid",
+    //     "borderColor": "white",
+    //     "borderRadius": "1px"
+    // },
+    // "highlight-matching-tag.style": {
+    //     "textDecoration": "underline"
+    // },
+
+    "typescript.check.tscVersion": false,
+
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        150
+    ],
+    "editor.cursorBlinking": "solid",
+    "editor.wordWrapColumn": 150,
+    "editor.formatOnSave": false,          // THIS WILL TRIGGER PRETTIER ON SAVE
+    
+    "prettier.eslintIntegration": true,    // THIS WILL MAKE IT COMMUNICATE WITH ESLINT
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 150,
+
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.welcome.enabled": true
+}
