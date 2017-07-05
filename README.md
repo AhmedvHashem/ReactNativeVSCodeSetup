@@ -4,12 +4,12 @@ After you install ReactNative on your machine follow below steps to prepare you 
 1. Download and install VSCode https://code.visualstudio.com/
 
 2. Install these plugins press "cmd+shift+P" then type 
-* ext install vscode-react-native
-* ext install vscode-eslint
-* ext install prettier-vscode
-* ext install rainbow-brackets
-* ext install indent-rainbow
-* ext install vscode-icons
+* ```ext install vscode-react-native```
+* ```ext install vscode-eslint```
+* ```ext install prettier-vscode```
+* ```ext install rainbow-brackets```
+* ```ext install indent-rainbow```
+* ```ext install vscode-icons```
 
 3. Installing ESLint for ReactNative and make it play nicly with prettier
 ```npm install --save-dev babel-eslint eslint eslint-plugin-react eslint-plugin-react-native prettier eslint-plugin-prettier```
