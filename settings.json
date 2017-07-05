@@ -27,12 +27,15 @@
     ],
     "editor.cursorBlinking": "solid",
     "editor.wordWrapColumn": 150,
-    "editor.formatOnSave": false,          // THIS WILL TRIGGER PRETTIER ON SAVE
+    "editor.formatOnSave": false,
     
-    "prettier.eslintIntegration": true,    // THIS WILL MAKE IT COMMUNICATE WITH ESLINT
+    "prettier.eslintIntegration": true,
     "prettier.jsxBracketSameLine": true,
     "prettier.printWidth": 150,
 
     "workbench.iconTheme": "vscode-icons",
-    "workbench.welcome.enabled": true
+    "workbench.welcome.enabled": true,
+
+    // Enable/disable default JavaScript formatter (For Prettier)
+    "javascript.format.enable": false
 }
