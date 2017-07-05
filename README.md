@@ -11,10 +11,9 @@ After you install ReactNative on your machine follow below steps to prepare you 
 * ext install indent-rainbow
 * ext install vscode-icons
 
-3. Installing ESLint for ReactNative
-* npm install -g eslint
-* npm install -g eslint-plugin-react-native
-* npm install -g eslint-plugin-prettier
+3. Installing ESLint for ReactNative and make it play nicly with prettier
+* ahmednts$ npm install --save-dev babel-eslint eslint eslint-plugin-react eslint-plugin-react-nativ
+e prettier eslint-plugin-react-native
 
 4. Edit VSCode setting.json file using this gist
 https://github.com/AhmedHashemNTS/ReactNativeVSCodeSetup/blob/master/settings.json
