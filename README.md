@@ -12,7 +12,7 @@ After you install ReactNative on your machine follow below steps to prepare you 
 * ```ext install vscode-icons```
 * ```ext install highlight-matching-tag```
 
-3. Installing ESLint for ReactNative and make it play nicly with prettier
+3. Installing ```ESLint``` for ReactNative and make it play nicly with ```prettier```
 * ```npm install --save-dev babel-eslint eslint eslint-plugin-react eslint-plugin-react-native prettier eslint-plugin-prettier```
 
 4. Edit VSCode setting.json file using this gist
